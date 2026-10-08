@@ -1,0 +1,36 @@
+# See https://github.com/github/gitignore/blob/main/Node.gitignore
+node_modules
+
+# Dependencies
+yarn.lock
+package-lock.json
+
+# Production builds
+dist
+.build
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Morphological analyzer data
+*.mdm
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Vite PWA assets
+/pwa-assets/
+
+# Build output
+dist/
+```

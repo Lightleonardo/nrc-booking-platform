@@ -1,0 +1,95 @@
+/* NRC Design Tokens */
+:root {
+  /* Colors — Theme */
+  --background: #ffffff;
+  --surface: #f8fafc;       /* cards, nav hover areas */
+  --border: #e2e8f0;
+  --foreground: #0f172a;    /* main text */
+  --muted: #475569;         /* secondary text */
+  --primary: #007d53;
+
+  /* Colors — Neutrals (legacy, kept for reference) */
+  --color-neutral-50: #212529;
+  --color-neutral-100: #000000;
+  --color-neutral-200: #5e6282;
+  --color-neutral-300: #ffffff;
+  --color-neutral-400: #2b4240;
+  --color-neutral-500: #86898b;
+  --color-neutral-600: #545454;
+  --color-neutral-700: #f0f0f0;
+  --color-neutral-800: #39425d;
+  --color-neutral-900: #cccccc;
+
+  /* Colors — Other */
+  --color-primary: #0d74ed;
+  --color-secondary: #007d53;
+  --color-accent: #ec3841;
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --color-text-1: #212529;
+  --color-text-2: #007d53;
+  --color-text-3: #86898b;
+  --color-text-4: #ffffff;
+
+  /* Typography — Families */
+  --font-sans: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-heading: 'Poppins', sans-serif;
+
+  /* Typography — Scale */
+  --font-size-84: 84px;
+  --font-size-50: 50px;
+  --font-size-35: 35px;
+  --font-size-33: 33px;
+  --font-size-24: 24px;
+  --font-size-21: 21px;
+  --font-size-20: 20px;
+  --font-size-18: 18px;
+  --font-size-17: 17px;
+  --font-size-16: 16px;
+  --font-size-15: 15px;
+  --font-size-14: 14px;
+
+  /* Spacing */
+  --spacing-1: 1px;
+  --spacing-40: 40px;
+  --spacing-46: 46px;
+  --spacing-64: 64px;
+  --spacing-70: 70px;
+  --spacing-112: 112px;
+  --spacing-144: 144px;
+
+  /* Border Radius */
+  --radius-sm: 5px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-3xl: 36px;
+  --radius-4xl: 50px;
+  --radius-full: 9999px;
+
+  /* Box Shadows */
+  --shadow-sm: rgba(0, 0, 0, 0.25) 0px 4px 4px 0px;
+  --shadow-md: rgba(0, 0, 0, 0.3) 0px 0px 10px 0px;
+  --shadow-lg: rgba(0, 125, 83, 0.05) 0px 8px 16px 0px;
+  --shadow-xl: rgba(9, 85, 76, 0.1) 10px 30px 25px 0px;
+}
+
+.dark {
+  --background: #020617;
+  --surface: #0f172a;
+  --border: #1e293b;
+  --foreground: #f8fafc;
+  --muted: #94a3b8;
+  /* --primary stays the same, so don't redefine it */
+}
+
+@layer base {
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--foreground);
+    background: var(--background);
+  }
+}

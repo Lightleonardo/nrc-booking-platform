@@ -1,0 +1,178 @@
+{
+  "common": {
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "header": {
+    "home": "Home",
+    "timetable": "Train Timetable",
+    "faqs": "FAQs",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "badge": "Nigeria Railway Corporation",
+    "title": "It's more than just a trip",
+    "subtitle": "Book your train tickets seamlessly across Nigeria with the safest, most reliable rail booking platform.",
+    "cta": {
+      "primary": "Book Now",
+      "secondary": "View Timetable"
+    },
+    "stats": {
+      "trains": "Modern Trains",
+      "safe": "Safety Rate",
+      "ontime": "On-Time",
+      "stations": "Stations"
+    },
+    "imageAlt": "NRC Modern Train"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Everything You Need for Your Journey",
+    "subtitle": "From booking to on-board comfort, we've got every detail covered.",
+    "onlineBooking": {
+      "title": "Online Booking",
+      "description": "Book your tickets in minutes from anywhere, anytime."
+    },
+    "securePayment": {
+      "title": "Secure Payment",
+      "description": "Pay with card, USSD, bank transfer, or wallet — all encrypted."
+    },
+    "liveTracking": {
+      "title": "Live Tracking",
+      "description": "Track your train in real-time with live GPS updates."
+    },
+    "mobileApp": {
+      "title": "Mobile App",
+      "description": "Download our app for quick access and offline tickets."
+    },
+    "safety": {
+      "title": "Safety First",
+      "description": "Our trains and stations meet the highest safety standards."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Get help anytime with our dedicated customer support team."
+    }
+  },
+  "destinations": {
+    "badge": "Popular Routes",
+    "title": "Explore Our Destinations",
+    "subtitle": "Connect to major cities across Nigeria's growing rail network.",
+    "viewAll": "View all stations",
+    "explore": "Explore"
+  },
+  "steps": {
+    "badge": "How It Works",
+    "title": "Booking in 4 Simple Steps",
+    "subtitle": "From search to confirmation in minutes.",
+    "search": {
+      "title": "Search",
+      "description": "Find trains by route, date, and passenger count."
+    },
+    "select": {
+      "title": "Select Train",
+      "description": "Compare schedules, classes, and prices."
+    },
+    "passengers": {
+      "title": "Passengers",
+      "description": "Fill in passenger details and preferences."
+    },
+    "payment": {
+      "title": "Payment",
+      "description": "Pay securely and get instant confirmation."
+    }
+  },
+  "testimonials": {
+    "badge": "Traveler Stories",
+    "title": "What Our Travelers Say",
+    "subtitle": "Thousands of happy travelers trust NRC for their journeys.",
+    "items": [
+      {
+        "quote": "The Lagos to Abuja route is smooth and the booking process is seamless.",
+        "author": "Amina Yusuf",
+        "role": "Business Traveler"
+      },
+      {
+        "quote": "Best rail service in Nigeria. The app makes booking a breeze.",
+        "author": "Tunde Olatunji",
+        "role": "Frequent Commuter"
+      },
+      {
+        "quote": "Safety and comfort exceeded my expectations on my last trip to Kano.",
+        "author": "Chinasa Okoro",
+        "role": "Family Traveler"
+      }
+    ]
+  },
+  "newsletter": {
+    "badge": "Stay Updated",
+    "title": "Get Travel Updates & Offers",
+    "subtitle": "Subscribe for route updates, fare changes, and exclusive discounts.",
+    "emailPlaceholder": "Enter your email",
+    "subscribing": "Subscribing...",
+    "subscribed": "Subscribed!",
+    "privacy": "We respect your privacy. Unsubscribe at any time."
+  },
+  "footer": {
+    "tagline": "Reliable, safe, and efficient rail travel across Nigeria.",
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "blog": "Blog",
+    "support": "Support",
+    "contact": "Contact",
+    "faqs": "FAQs",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "download": "Download App",
+    "rights": "NRC E-Ticketing Platform"
+  },
+  "booking": {
+    "steps": {
+      "search": "Search",
+      "train": "Select Train",
+      "passengers": "Passengers",
+      "payment": "Payment"
+    },
+    "tripType": {
+      "oneWay": "One Way",
+      "roundTrip": "Round Trip",
+      "multiCity": "Multi City"
+    },
+    "passengers": {
+      "adults": "Adults",
+      "children": "Children",
+      "infants": "Infants"
+    },
+    "from": "From",
+    "to": "To",
+    "departure": "Departure",
+    "return": "Return",
+    "searchTrains": "Search Trains",
+    "selectTrain": "Select",
+    "selectClass": "Select Class",
+    "passengerDetails": "Passenger Details",
+    "paymentMethod": "Payment Method",
+    "total": "Total",
+    "bookNow": "Pay Now",
+    "serviceFee": "Service Fee",
+    "vat": "VAT",
+    "summary": {
+      "title": "Booking Summary",
+      "from": "From",
+      "to": "To",
+      "passengers": "Passengers",
+      "class": "Class",
+      "total": "Total",
+      "complete": "Complete Booking",
+      "empty": "No booking yet"
+    }
+  }
+}

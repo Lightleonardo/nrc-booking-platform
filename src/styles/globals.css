@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@import "./variables.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-secondary: var(--color-secondary);
+  --color-accent: var(--color-accent);
+  --color-nrc-green-500: var(--color-nrc-green-500);
+  --color-nrc-green-50: var(--color-nrc-green-50);
+
+  --font-heading: "Poppins", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  --shadow-nrc-sm: rgba(0, 0, 0, 0.25) 0px 4px 4px 0px;
+  --shadow-nrc-md: rgba(0, 0, 0, 0.3) 0px 0px 10px 0px;
+  --shadow-nrc-lg: rgba(0, 125, 83, 0.05) 0px 8px 16px 0px;
+  --shadow-nrc-xl: rgba(9, 85, 76, 0.1) 10px 30px 25px 0px;
+}
+
+@layer base {
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--foreground);
+    background: var(--background);
+  }
+}

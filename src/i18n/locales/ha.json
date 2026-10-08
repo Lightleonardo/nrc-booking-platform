@@ -1,0 +1,53 @@
+{
+  "common": {
+    "search": "Bincike",
+    "loading": "Ana lodi...",
+    "error": "Kuskure",
+    "next": "Gaba",
+    "back": "Baya",
+    "submit": "Mika",
+    "cancel": "Soke"
+  },
+  "header": {
+    "home": "Gida",
+    "timetable": "Jadawalin Reli",
+    "faqs": "Tambayoyi",
+    "login": "Shiga",
+    "signup": "Yi rajista"
+  },
+  "hero": {
+    "headline": "Yana da yawa fiye da tafiya",
+    "subheadline": "Sayi tikiti na relinku cikin sauƙi a dukkan Najeriya"
+  },
+  "booking": {
+    "steps": {
+      "search": "Bincike",
+      "train": "Zaɓi Reli",
+      "passengers": "Masu Amfani",
+      "payment": "Biya"
+    },
+    "tripType": {
+      "oneWay": "Hanya ɗaya",
+      "roundTrip": "Komawa",
+      "multiCity": "Birane da yawa"
+    },
+    "passengers": {
+      "adults": "Manya",
+      "children": "Yara",
+      "infants": "Jarirai"
+    },
+    "from": "Daga",
+    "to": "Zuwa",
+    "departure": "Fita",
+    "return": "Komawa",
+    "searchTrains": "Bincika Reli",
+    "selectTrain": "Zaɓi",
+    "selectClass": "Zaɓi Class",
+    "passengerDetails": "Bayanin Fasinja",
+    "paymentMethod": "Hanyar Biya",
+    "total": "Jimillar",
+    "bookNow": "Biya Yanzu",
+    "serviceFee": "Kudin Aiki",
+    "vat": "VAT"
+  }
+}

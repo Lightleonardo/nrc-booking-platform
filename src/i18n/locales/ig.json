@@ -1,0 +1,53 @@
+{
+  "common": {
+    "search": "Chọọ",
+    "loading": "Na-ebu...",
+    "error": "Njehie",
+    "next": "Osote",
+    "back": "Laghachi",
+    "submit": "Nyefee",
+    "cancel": "Kagbuo"
+  },
+  "header": {
+    "home": "Ulo",
+    "timetable": "Oge ụgbọ oloko",
+    "faqs": "Ajụjụ",
+    "login": "Banye",
+    "signup": "Debanye aha"
+  },
+  "hero": {
+    "headline": "Ọ bụ ihe karịrị njem",
+    "subheadline": "Zụta tiketi ụgbọ oloko gị n'enweghị nsogbu gafee Naịjirịa"
+  },
+  "booking": {
+    "steps": {
+      "search": "Chọọ",
+      "train": "Họrọ Ụgbọ Oloko",
+      "passengers": "Ndị njem",
+      "payment": "Ịkwụ ụgwọ"
+    },
+    "tripType": {
+      "oneWay": "Otu ụzọ",
+      "roundTrip": "Alaghachi",
+      "multiCity": "Obodo dị iche iche"
+    },
+    "passengers": {
+      "adults": "Ndị okenye",
+      "children": "Ụmụaka",
+      "infants": "Ndị ọhụrụ"
+    },
+    "from": "Site na",
+    "to": "Gaa",
+    "departure": "Ọpụpụ",
+    "return": "Alaghachi",
+    "searchTrains": "Chọọ ụgbọ oloko",
+    "selectTrain": "Họrọ",
+    "selectClass": "Họrọ Klas",
+    "passengerDetails": "Nkọwa njem",
+    "paymentMethod": "Usoro ịkwụ ụgwọ",
+    "total": "Mkpokọta",
+    "bookNow": "Kwụọ ụgwọ Ugbu a",
+    "serviceFee": "Ọnụahịa ọrụ",
+    "vat": "VAT"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "common": {
+    "search": "Wa",
+    "loading": "Ng lilọ...",
+    "error": "Aṣiṣe",
+    "next": "Titòkò",
+    "back": "Pada",
+    "submit": "Fi silẹ",
+    "cancel": "Fagilee"
+  },
+  "header": {
+    "home": "Ile",
+    "timetable": "Akoko ọkọ oju-irin",
+    "faqs": "Awọn ibeere",
+    "login": "Wọle",
+    "signup": "Forukọsilẹ"
+  },
+  "hero": {
+    "headline": "O ju irin-ajo lọ",
+    "subheadline": "Ra awọn tikẹti ọkọ oju-irin rẹ ni irọrun kaakiri Naijiria"
+  },
+  "booking": {
+    "steps": {
+      "search": "Wa",
+      "train": "Yan ọkọ oju-irin",
+      "passengers": "Awọn arinrin-ajo",
+      "payment": "Isanwo"
+    },
+    "tripType": {
+      "oneWay": "Ọna kan",
+      "roundTrip": "Ọna-padà",
+      "multiCity": "Ilu pupọ"
+    },
+    "passengers": {
+      "adults": "Agbalagba",
+      "children": "Awọn ọmọ",
+      "infants": "Awọn ọmọ oyun"
+    },
+    "from": "Lati",
+    "to": "Si",
+    "departure": "Ibi ìfilọlẹ",
+    "return": "Ipadàbọ",
+    "searchTrains": "Wa awọn ọkọ oju-irin",
+    "selectTrain": "Yan",
+    "selectClass": "Yan Kilasi",
+    "passengerDetails": "Awọn alaye arinrin-ajo",
+    "paymentMethod": "Ọna isanwo",
+    "total": "Lapapọ",
+    "bookNow": "Sanwo Bayi",
+    "serviceFee": "Owo iṣẹ",
+    "vat": "VAT"
+  }
+}
